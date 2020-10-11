@@ -12,7 +12,7 @@ o	Using Euclidean distance method, we are calculating the distance between the s
 o	Based on the distance we find the most matching candidates. 
 o	Visualization of the matching candidate using charts such as radar chart, lollipop chart and datatable.
 
-Using the application:
+## Using the application:
 
 1) Upload the dataset, "talent_pipeline data". 
 2) Select from the dropdown list what kind of comparison you want to make that is with employee or benchmark competency values for the position.
