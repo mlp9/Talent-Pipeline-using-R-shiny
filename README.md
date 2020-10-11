@@ -18,15 +18,25 @@ o	Visualization of the matching candidate using charts such as radar chart, loll
 2) Select from the dropdown list what kind of comparison you want to make that is with employee or benchmark competency values for the position.
 
     •	Comparing with current candidates: 
+    
       o	User inputs the employee id and selects the desired competency.
+      
       o	Dynamically select the desired department of candidates to match.
+      
       o	Dynamically select the experience level of candidates to match.
+      
       o	Dynamically select the no of employees to display.
+      
       o	Type of visualization.
   
     •	Comparing with benchmark values:
+    
       o	User selects the desired competency and enters its value.
+      
       o	Dynamically select the desired department of candidates to match.
+      
       o	Dynamically select the experience level of candidates to match.
+      
       o	Dynamically select the no of employees to display.
+      
       o	Type of visualization.
