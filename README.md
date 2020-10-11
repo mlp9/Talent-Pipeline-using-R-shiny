@@ -29,7 +29,7 @@ o	Visualization of the matching candidate using charts such as radar chart, loll
       
       o	Type of visualization.
   
-    •	Comparing with benchmark values:
+   #### •	Comparing with benchmark values:
     
       o	User selects the desired competency and enters its value.
       
