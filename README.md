@@ -17,7 +17,7 @@ o	Visualization of the matching candidate using charts such as radar chart, loll
 1) Upload the dataset, "talent_pipeline data". 
 2) Select from the dropdown list what kind of comparison you want to make that is with employee or benchmark competency values for the position.
 
-    •	Comparing with current candidates: 
+   #### •	Comparing with current candidates: 
     
       o	User inputs the employee id and selects the desired competency.
       
